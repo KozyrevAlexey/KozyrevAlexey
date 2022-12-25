@@ -38,7 +38,8 @@
 
 
 
-### Моя статистика
+### Моя статистика 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=KozyrevAlexey.visitor-badge)
 
 <div id="stat" align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KozyrevAlexey&theme=github_dark" alt=""/>
