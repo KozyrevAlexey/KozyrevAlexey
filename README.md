@@ -1,17 +1,20 @@
 <div id="header" align="center">
     <h1>Привет :v:, меня зовут Алексей </h1>
     <h3>Я студент Яндекс Практикум </h3>
+     <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 </div>
 
 <div id="socials" align="center">
-<h2>Найти меня можно в Telegram и Discord</h2>
+    
+<!-- <h2>Найти меня можно в Telegram и Discord</h2>
   <a href="telegram-url">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 
   <a href="discord-url">
     <img src="https://img.shields.io/badge/-discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
+  </a> -->
+   
 </div>
 
 ### Несколько слов о себе:
