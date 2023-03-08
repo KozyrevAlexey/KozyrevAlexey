@@ -1,6 +1,6 @@
 <div id="header" align="center">
-    <h1>Привет :v:, меня зовут Алексей </h1>
-    <h3>Я студент Яндекс Практикум </h3>
+    <h1>Привет :v:, <br>меня зовут Алексей </h1>
+    <h3>я студент Яндекс Практикум </h3>
      <img align="center" alt="GIF" src="https://raw.githubusercontent.com/KozyrevAlexey/KozyrevAlexey/main/image/code.gif?raw=true" width="500" height="320" />
 </div>
 
@@ -36,7 +36,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="40" height="40"/>&nbsp;
 
-
+---
 
 
 <div id="stat" align="center">
